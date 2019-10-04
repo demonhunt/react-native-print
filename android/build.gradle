@@ -2,11 +2,10 @@ apply plugin: 'com.android.library'
 
 android {
 
-  android {
       lintOptions {
           abortOnError false
       }
-  }
+  
 
     compileSdkVersion 28
     buildToolsVersion "28.0.3"
